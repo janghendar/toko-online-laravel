@@ -1,0 +1,7 @@
+{
+    "Jobs": true,
+    "Events": true,
+    "Donations": true,
+    "Product": true,
+    "ProductBundle": true
+}
